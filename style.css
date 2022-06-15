@@ -16,10 +16,16 @@ div.selectpage {
     float: left;
 }
 
-a {
+a.selectscreen {
     color: white;
     background-color: transparent;
     text-decoration: none;
+}
+
+a.contactscreen {
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
 }
 
 div.content {
