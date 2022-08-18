@@ -1,7 +1,8 @@
-# This is my personal Website
+# This is my personal Website [DEPRECATED]
 ## :D  
 
-The master branch is were you can find the latest and greatest code stuff  
-And the live branch is were you can find the thing that is actually running
+This will NO LONGER be my personal website but i choose to keep the repo
+For the sake of archiving
 
-### You can view the Website by going to: https://dvd-znf.github.io/Dvd-Hot/
+### You can view this [DEPRECATED] Website by going to: https://dvd-znf.github.io/Dvd-Hot/
+### You can view my curent Personal Website by going to: (COMING SOON)
